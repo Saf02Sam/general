@@ -13,6 +13,11 @@ Welcome! This repository contains my collection of data science, machine learnin
 - 🖼️ **[Image Classification using CNN](https://nbviewer.org/github/Saf02Sam/general/blob/main/Neural%20Networks/Image%20Classification%20Using%20CNN.ipynb)** → Deep learning CNN for image classification.
 
 
+---
+
+### ✅ Currently Working On
+- 📈 **Stock Market Prediction Project** → Developing a machine learning model to predict stock price movements using historical data, technical indicators, and sentiment analysis from news. The goal is to forecast trends and evaluate model accuracy over time. *(Notebook coming soon)*
+
 
 ---
 
