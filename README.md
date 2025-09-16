@@ -12,18 +12,6 @@ Welcome! This repository contains my collection of data science, machine learnin
 - 🍽️ **[Restaurant Reviews Sentiment Analysis](https://nbviewer.org/github/Saf02Sam/general/blob/main/Machine%20Learning/Restaurant%20Reviews%20Sentiment%20Analysis%20Model.ipynb)** → NLP-based sentiment classification.
 - 🖼️ **[Image Classification using CNN](https://nbviewer.org/github/Saf02Sam/general/blob/main/Neural%20Networks/Image%20Classification%20Using%20CNN.ipynb)** → Deep learning CNN for image classification.
 
----
-
-## 📂 Repository Structure
-
-
-├── Data Analytics/ # EDA and practice notebooks (Netflix, Titanic, Heart Disease, etc.)
-├── Machine Learning/ # ML models (recommendation, prediction, clustering, sentiment)
-├── NLP/ # Text analysis and sentiment projects
-├── Neural Networks/ # Deep learning with TensorFlow and CNNs
-├── Chess.ipynb # Chess-related analysis
-├── Triple DES Encryption.ipynb # Cryptography implementation
-└── Miscellaneous # Practice notebooks and drafts
 
 
 ---
