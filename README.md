@@ -27,11 +27,7 @@ Since GitHub sometimes fails to render large `.ipynb` files, use **nbviewer** fo
 
 ---
 
-## 🛠️ Tech Stack
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLTK, TextBlob)
-- Jupyter Notebook
 
----
 
 ## 👤 Author
 [Saffa Samreen](https://github.com/Saf02Sam)
